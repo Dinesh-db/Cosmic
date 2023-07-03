@@ -122,13 +122,3 @@ Contributions to this project are welcomed, If you need to contribute to this pr
 * Make neccessary changes, commit and raise a pull request against develop
 **Note** when making contributions, please endevour to follow the [Airbnb](https://github.com/airbnb/javascript) javascript style guide. 
 
-## License
-This project is authored by **Muhammad Bilal Sadiq** (bilal9978@gmail.com) and is licensed for your use, modification and distribution under the **MIT** license.
-[MIT][license]
-<!-- Definitions -->
-[license]: LICENSE
-[author]: Muhammad Bilal Sadiq
-
-
-### Support or New Features
-Having new features you feel I can add to GCUF-Library? Kindly contact as above, I'll look into it. Thanks.
